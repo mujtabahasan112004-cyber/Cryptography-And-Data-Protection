@@ -1,0 +1,6 @@
+# Consolidated Requirements for all three Cybersecurity Weekly Projects
+cryptography>=42.0.0
+pillow>=10.0.0
+numpy>=1.24.0
+slh-dsa>=0.2.5
+pytest>=8.0.0

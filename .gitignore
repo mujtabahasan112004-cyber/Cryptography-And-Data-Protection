@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest & testing artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Temporary generated test output keys/signatures
+Week_3_SPHINCS_Plus/demo/*.key
+Week_3_SPHINCS_Plus/demo/*.bin
+!Week_2_Dual_Layer_Steganography_AES256/sample_data/input.png
+!Week_2_Dual_Layer_Steganography_AES256/output/.gitkeep
+
+# Operating System files
+Thumbs.db
+Desktop.ini
+.DS_Store
